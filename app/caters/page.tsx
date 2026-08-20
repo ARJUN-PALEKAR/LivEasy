@@ -8,7 +8,7 @@ const cooks = [
     name: "Lalan Bhaiya",
     specialty: "North Indian & Chinese",
     experience: "5 years",
-    location: "Ramapuram",
+    location: "Chennai",
     price: "₹4,000-5,000/month",
     image: "/placeholder.svg?height=150&width=150",
     description: "Specializes in healthy home-cooked meals. Expert in North Indian cuisine and Chinese dishes. Flexible meal plans available.",
